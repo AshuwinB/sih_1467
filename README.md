@@ -2,7 +2,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First, sign-in to clerk
+
+Second, make a project
+
+Third, copy env keys
+
+Fourth, make .env file on root directory and paste the env keys and save
+
+Fifth, run the development server:
 
 ```bash
 npm run dev
